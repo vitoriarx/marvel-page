@@ -1,3 +1,3 @@
 # marvel-page
 
-https://vitoriarx.github.io/marvel-page/
+marvel-page.netlify.app
