@@ -1,0 +1,102 @@
+body{
+    background: linear-gradient(90deg, #000,#000D 35%, #0000), url(./img/background-doutor-estranho.png)
+}
+#logo{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+
+
+
+#frases{
+    color: white;
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    
+    
+    
+}
+#doctor{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#multiverse{
+    color: rgb(164, 19, 19);
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    border: none;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(164, 19, 19);
+    color: white;
+    border-radius: 5px;
+    position: absolute;
+    left: 100px;
+    top: 480px;
+    font-size: 17px;
+}
+.home{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 920px;
+}
+.personagens{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 1000px;
+    
+}
+.spolier{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 1150px;
+}
+
+.spolier:hover {
+    color: black;
+    background-color: rgb(237, 229, 229);
+   }
+.personagens:hover {
+    color: black;
+    background-color: rgb(237, 229, 229);
+   }
+.home:hover {
+    color: black;
+    background-color: rgb(237, 229, 229);
+   }
+
+.instagram{
+    position: fixed;
+    left: 1250px;
+    top: 400px;
+    width: 50px;
+}
+
+.youtube{
+    position: fixed;
+    left: 1250px;
+    top: 460px;
+    width: 50px;
+}
+
+.twitter{
+    position: fixed;
+    left: 1250px;
+    top: 520px;
+    width: 50px;
+}
