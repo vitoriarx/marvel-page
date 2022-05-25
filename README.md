@@ -1,3 +1,3 @@
 # marvel-page
 
-marvel-page.netlify.app
+https://marvel-page.netlify.app/
